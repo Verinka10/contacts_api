@@ -32,6 +32,8 @@ Telegram:
 	TELEGRAM_API_KEY
 	TELEGRAM_CHANNEL
 	
+Test:
 	
+	docker-compose exec php-fpm php artisan test
     
     
